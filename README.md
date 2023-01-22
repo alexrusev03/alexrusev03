@@ -3,5 +3,5 @@
 <!<img align="left" alt="alexrusev03's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrusev03" />
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/alexrusev03/count.svg" />
 </p>
